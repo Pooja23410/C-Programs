@@ -23,4 +23,6 @@ A menu-driven student record management system implemented in C using structures
 
 [View Project](./Student-Record-Manager)
 
-Projects will be added progressively as I learn and apply new concepts in C.
+## Author
+Pooja Anbalagan  
+ECE Graduate
