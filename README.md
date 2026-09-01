@@ -23,6 +23,10 @@ A menu-driven student record management system implemented in C using structures
 
 [View Project](./Student-Record-Manager)
 
+### 2. E-Library Management System
+
+A menu-driven library management system implemented in C using structures, arrays, loops, strings, searching, record management, and CRUD operations. It supports adding, displaying, searching, borrowing, returning, updating, and deleting book records.
+
 ## Author
 Pooja Anbalagan  
 ECE Graduate
