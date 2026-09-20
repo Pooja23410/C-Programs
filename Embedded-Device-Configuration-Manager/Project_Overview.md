@@ -51,6 +51,6 @@ This project does not use actual embedded hardware. It simulates device configur
 
 ## Author
 
-**Pooja A**
+**Pooja Anbalagan**
 
 ECE Graduate
