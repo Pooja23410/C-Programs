@@ -27,9 +27,13 @@ A menu-driven student record management system implemented in C using structures
 
 A menu-driven library management system implemented in C using structures, arrays, loops, strings, searching, record management, and CRUD operations. It supports adding, displaying, searching, borrowing, returning, updating, and deleting book records.
 
+[View Project](./E-Library-Management)
+
 ### 3. Embedded Device Configuration Manager
 
 A menu-driven C program that simulates configuration management for multiple embedded devices using structures, arrays, enums, pointers, and bit manipulation.
+
+[View Project](./Embedded-Device-Configuration-Manager)
 
 ## Author
 Pooja Anbalagan  
