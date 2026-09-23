@@ -35,6 +35,13 @@ A menu-driven C program that simulates configuration management for multiple emb
 
 [View Project](./Embedded-Device-Configuration-Manager)
 
+### 4. Embedded Device Health Monitor
+
+A C-based software project that monitors multiple embedded devices using temperature, voltage, current, memory, CPU, and battery parameters.
+It evaluates each parameter and generates **NORMAL, WARNING, or CRITICAL** health status reports for each device.
+
+[View Project](./Embedded-Device-Health-Monitor)
+
 ## Author
 Pooja Anbalagan  
 ECE Graduate
