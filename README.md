@@ -42,6 +42,14 @@ It evaluates each parameter and generates **NORMAL, WARNING, or CRITICAL** healt
 
 [View Project](./Embedded-Device-Health-Monitor)
 
+### 5. Sensor Data Logger
+
+A C-based project that simulates sensor data collection, validation, storage, threshold monitoring, and basic statistical analysis.
+Uses structures, arrays, functions, and conditional logic to classify sensor readings as **NORMAL, WARNING, or CRITICAL**.
+
+[View Project](./Sensor-Data-Logger)
+
+
 ## Author
 Pooja Anbalagan  
 ECE Graduate
